@@ -1,0 +1,28 @@
+﻿  Generate moc_predefs.h
+  Moc'ing CSV.h...
+  Chart.cpp
+  CSV.cpp
+  Helper.cpp
+  KLine.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Unknown compiler version - please run the configure tests and report the results
+  login.cpp
+f:\source\repos\qtstock\helper.cpp(66): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\source\repos\qtstock\helper.cpp(69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  mainwindow.cpp
+  moc_login.cpp
+f:\source\repos\qtstock\login.cpp(75): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+f:\source\repos\qtstock\login.cpp(76): warning C4100: “socketError”: 未引用的形参
+  moc_mainwindow.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Unknown compiler version - please run the configure tests and report the results
+  moc_Chart.cpp
+f:\source\repos\qtstock\mainwindow.cpp(55): warning C4100: “code”: 未引用的形参
+f:\source\repos\qtstock\mainwindow.cpp(104): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\source\repos\qtstock\mainwindow.cpp(105): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\source\repos\qtstock\mainwindow.cpp(218): warning C4189: “csv_”: 局部变量已初始化但不引用
+  moc_CSV.cpp
+  moc_Helper.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  QtStock.vcxproj -> F:\source\repos\QtStock\x64\Release\QtStock.exe

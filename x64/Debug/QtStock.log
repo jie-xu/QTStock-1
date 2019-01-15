@@ -1,0 +1,18 @@
+﻿  Moc'ing Chart.h...
+  moc_Chart.cpp
+  moc_login.cpp
+  moc_mainwindow.cpp
+  Chart.cpp
+  KLine.cpp
+  login.cpp
+  main.cpp
+  mainwindow.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Unknown compiler version - please run the configure tests and report the results
+c:\users\ssssh\source\repos\qtstock\login.cpp(75): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+c:\users\ssssh\source\repos\qtstock\login.cpp(76): warning C4100: “socketError”: 未引用的形参
+c:\users\ssssh\source\repos\qtstock\mainwindow.cpp(55): warning C4100: “code”: 未引用的形参
+c:\users\ssssh\source\repos\qtstock\mainwindow.cpp(104): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\ssssh\source\repos\qtstock\mainwindow.cpp(105): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\ssssh\source\repos\qtstock\mainwindow.cpp(209): warning C4189: “csv_”: 局部变量已初始化但不引用
+  QtStock.vcxproj -> C:\Users\ssssh\source\repos\QtStock\x64\Debug\QtStock.exe
